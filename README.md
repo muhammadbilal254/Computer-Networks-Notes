@@ -192,6 +192,13 @@ Network ID and Host ID
 6. **Virtual Private Networks (VPNs)**: Securely connect remote users or offices to a network over the internet, encrypting the traffic between them.
 
 7. **Network Segmentation**: Divides a network into smaller, isolated sections to contain potential security threats and limit damage in case of a breach.
+8. 1. Parity Check
+    - Definition: A parity bit is added to the data to make the number of 1-bits either even (even parity) or odd (odd parity).
+    - Types:
+    - Even Parity: Adds a parity bit to ensure the total number of 1-bits is even.
+    - Odd Parity: Adds a parity bit to make the total number of 1-bits odd.
+    - Use Case: Simple error detection; mainly used in memory systems or low-level hardware communications.
+    - Limitation: Can only detect single-bit errors, not multiple-bit errors.
 
 ### In Short:
 
