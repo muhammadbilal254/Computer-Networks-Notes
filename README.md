@@ -43,11 +43,11 @@ We can change a Locally Administered MAC Address (LAA), not the Universally Admi
 
 ### Reasons to Change a MAC Address:
 
-Privacy: Prevent tracking on public networks.
-Network Requirements: Some networks use specific MAC addresses for access.
-Conflict Resolution: Unique LAAs prevent address conflicts on the same network.
-Testing: Simulate different devices on a network.
-Changing to an LAA is useful for privacy, custom configurations, and troubleshooting but should be done carefully to avoid compatibility issues.
+- Privacy: Prevent tracking on public networks.
+- Network Requirements: Some networks use specific MAC addresses for access.
+- Conflict Resolution: Unique LAAs prevent address conflicts on the same network.
+- Testing: Simulate different devices on a network.
+- Changing to an LAA is useful for privacy, custom configurations, and troubleshooting but should be done carefully to avoid compatibility issues.
 
 ## Ip Address
 
